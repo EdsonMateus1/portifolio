@@ -80,6 +80,10 @@ export default
                 name: 'Alguns certificados',
                 url: 'https://drive.google.com/drive/folders/1tJ5n_YqoLsZw2KAJUb4g_FV-MxPP59dL?usp=sharing'
             },
+            {
+                name: 'Curriculo',
+                url: 'https://my.indeed.com/p/edsonm-7clgfgn'
+            },
         ]
-        
+
     }
