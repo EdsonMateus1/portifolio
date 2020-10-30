@@ -21,7 +21,7 @@ export default
         projects: [
             {
                 id: 1,//DO NOT CHANGE THIS (Please)😅
-                title: 'Projeto Final curso desenvolvimento front-end com react', //Project Title - Add Your Project Title Here
+                title: 'Tarefas', //Project Title - Add Your Project Title Here
                 service: "Web Site:Projeto feito na conclusao do curso desenvolvimento front-end com react ,projeto simples,mas que proporcionou uma otima pratica para os conceitos aprenditos durante curso", // Add Your Service Type Here
                 //Project Image - Add Your Project Image Here
                 imageSrc: "https://user-images.githubusercontent.com/57047448/83953190-97558d00-a814-11ea-850a-809d5d44d351.png",

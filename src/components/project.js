@@ -11,7 +11,7 @@ class Project extends Component {
             <img src={this.props.imageSrc} alt={this.props.title}></img>
             </a>
             <h1>{this.props.title}</h1>
-            <span className='spanProject'>{this.props.service}</span>
+            <p className='spanProject'>{this.props.service}</p>
         </div> 
             </Fade>);
     }
